@@ -1,7 +1,7 @@
 ## 资源目录
 
 实际内容比目录多
-https://note.youdao.com/web/#/file/AB68A247150B4A70A23D666E7F6EF9A0/note/9A15FE8D060A40E1898EC6D1BA6966F0/
+http://note.youdao.com/noteshare?id=7fd10758621338e782c6af98f48a7659
 
 目录可以搜到的资源(搜索方法上面链接有详解)，有偿分享！支持试听试看，非诚勿扰！
 
