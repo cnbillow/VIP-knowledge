@@ -1,8 +1,8 @@
-# 资源目录
+# 资源分类
 
-<b><details><summary>主流平台</summary></b>
+<b><details><summary>一、主流付费平台</summary></b>
 
-## 资源目录
+#### 资源目录
 
 实际内容比目录多
 http://note.youdao.com/noteshare?id=7fd10758621338e782c6af98f48a7659
@@ -25,13 +25,13 @@ http://note.youdao.com/noteshare?id=7fd10758621338e782c6af98f48a7659
 如图：
 ![截图](./img/tc03.png)
 
-## 资源新增
+## 更新日志
 
-于2020-01-19，[新增慕课网课程](https://github.com/Daily-Github/VIP-knowledge/blob/master/img/慕课网.jpg)，全网vip会员请查收
+* 2020-01-19，[新增慕课网课程](https://github.com/Daily-Github/VIP-knowledge/blob/master/img/慕课网.jpg)，全网vip会员请查收
 
 </details>
 
-<b><details><summary>电影 & 美剧</summary></b>
+<b><details><summary>二、电影 & 美剧</summary></b>
 
 ## 收费标准：10 元/永久
 
