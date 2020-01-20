@@ -1,4 +1,4 @@
-# 资源分类
+# 资源分类（点击下面分类标题可查看详情）
 
 <b><details><summary>一、主流付费平台</summary></b>
 
@@ -32,11 +32,6 @@ http://note.youdao.com/noteshare?id=7fd10758621338e782c6af98f48a7659
 ![美剧](./img/美剧.png)
 
 </details>
-
-# 更新日志
-
-* 2020-01-19 主流付费平台，[新增慕课网课程](https://github.com/Daily-Github/VIP-knowledge/blob/master/img/慕课网.jpg)，全网vip会员请查收
-* 2020-02-20 主流付费平台，下架单课程购买套餐，新增电影美剧分类
 
 # 联系我们
 
