@@ -1,6 +1,6 @@
 # 资源分类（点击下面分类标题可查看详情）
 
-<b><details><summary>一、主流付费平台</summary></b>
+<b><details><summary>一、主流付费平台（5T）</summary></b>
 
 ## 资源目录
 
@@ -21,7 +21,7 @@ http://note.youdao.com/noteshare?id=7fd10758621338e782c6af98f48a7659
 
 </details>
 
-<b><details><summary>二、电影 & 美剧</summary></b>
+<!-- <b><details><summary>二、电影 & 美剧（3T）</summary></b>
 
 ## 收费标准：10 元/永久 （全网vip会员免费）
 
@@ -30,6 +30,20 @@ http://note.youdao.com/noteshare?id=7fd10758621338e782c6af98f48a7659
 
 美剧如图：
 ![美剧](./img/美剧.png)
+
+</details> -->
+
+# 售后服务
+
+<b><details><summary>一、VIP 会员终身免费学习</summary></b>
+
+海量课程，买到就是赚到。内容丰富，适用于各行各业相关人群。一生中总会遇到你需要学习需要新知识的时候，愿为每一位需要学习的您服务。
+
+</details>
+
+<b><details><summary>二、加入会员后不满意，直接退款</summary></b>
+
+加入会员后碰到诸如觉得买贵了、心情不好不想要了、看不懂下载说明、当地限制了网盘登录等等问题，1小时内都可以直接找我退款，敬请各位朋友放心。
 
 </details>
 
